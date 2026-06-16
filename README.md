@@ -107,8 +107,7 @@ engineer = SanthoshP()
 - ✈️ Real-world Air Traffic Control workflow documentation
 - **Impact**: Completed comprehensive internship report with detailed technical analysis of critical aviation systems
 
-### Seeking: CMRL (Chennai Metro Rail Limited) Internship
-**Expected Specialization Areas:**
+
 - Railway Signaling & CBTC (Communication-Based Train Control) Systems
 - SCADA Architecture & Implementation
 - Traction & Power Distribution Systems
